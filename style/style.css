@@ -19,12 +19,7 @@
 
 .avatar-label-container {
   height: 175px;
-  background: linear-gradient(
-      0deg,
-      rgba(0, 0, 0, 0) 70.26%,
-      rgba(0, 0, 0, 0.43) 100%
-    ),
-    url("../images/Cover\ Image.png");
+  background: linear-gradient( 0deg, rgba(0, 0, 0, 0) 70.26%, rgba(0, 0, 0, 0.43) 100%),url("../images/Cover\ Image.png");
   background-repeat: no-repeat;
   border-radius: 12px 12px 0px 0px;
 }
